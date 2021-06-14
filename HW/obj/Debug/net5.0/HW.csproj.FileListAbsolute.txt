@@ -1,0 +1,16 @@
+C:\Users\Word\Desktop\term2-2020\Internship\HW\bin\Debug\net5.0\HW.exe
+C:\Users\Word\Desktop\term2-2020\Internship\HW\bin\Debug\net5.0\HW.deps.json
+C:\Users\Word\Desktop\term2-2020\Internship\HW\bin\Debug\net5.0\HW.runtimeconfig.json
+C:\Users\Word\Desktop\term2-2020\Internship\HW\bin\Debug\net5.0\HW.runtimeconfig.dev.json
+C:\Users\Word\Desktop\term2-2020\Internship\HW\bin\Debug\net5.0\HW.dll
+C:\Users\Word\Desktop\term2-2020\Internship\HW\bin\Debug\net5.0\ref\HW.dll
+C:\Users\Word\Desktop\term2-2020\Internship\HW\bin\Debug\net5.0\HW.pdb
+C:\Users\Word\Desktop\term2-2020\Internship\HW\obj\Debug\net5.0\HW.csproj.AssemblyReference.cache
+C:\Users\Word\Desktop\term2-2020\Internship\HW\obj\Debug\net5.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Word\Desktop\term2-2020\Internship\HW\obj\Debug\net5.0\HW.AssemblyInfoInputs.cache
+C:\Users\Word\Desktop\term2-2020\Internship\HW\obj\Debug\net5.0\HW.AssemblyInfo.cs
+C:\Users\Word\Desktop\term2-2020\Internship\HW\obj\Debug\net5.0\HW.csproj.CoreCompileInputs.cache
+C:\Users\Word\Desktop\term2-2020\Internship\HW\obj\Debug\net5.0\HW.dll
+C:\Users\Word\Desktop\term2-2020\Internship\HW\obj\Debug\net5.0\ref\HW.dll
+C:\Users\Word\Desktop\term2-2020\Internship\HW\obj\Debug\net5.0\HW.pdb
+C:\Users\Word\Desktop\term2-2020\Internship\HW\obj\Debug\net5.0\HW.genruntimeconfig.cache
